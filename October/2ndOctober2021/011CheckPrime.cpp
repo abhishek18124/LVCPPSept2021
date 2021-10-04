@@ -60,6 +60,8 @@ int main() {
 
 	cout << n << " is a prime number" << endl;
 
+	
+
 
 	return 0;
 }
